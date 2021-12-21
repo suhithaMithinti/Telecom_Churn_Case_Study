@@ -1,1 +1,2 @@
 # Telecom_Churn_Case_Study
+To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In the Indian and the southeast Asian market, approximately 80% of revenue comes from the top 20% customers (called high-value customers). Thus, if we can reduce churn of the high-value customers, we will be able to reduce significant revenue leakage. So in this project, we will define high-value customers based on a certain metric and predict churn only on high-value customers.
